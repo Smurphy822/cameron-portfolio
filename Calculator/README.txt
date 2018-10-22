@@ -1,0 +1,1 @@
+Makes simple mathematical calculations ,by choosing an operation then inputing numbers.

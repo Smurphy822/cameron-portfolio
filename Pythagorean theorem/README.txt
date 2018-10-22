@@ -1,0 +1,1 @@
+Input 2 sides of a right triangle to get the third hypotenuse side.
